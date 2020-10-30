@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Coding\lazyl\lazyape" t="IncludeRecursive">
+      <e p=".env" t="Include" />
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="Areas" t="Include">
+        <e p="Identity" t="Include">
+          <e p="IdentityHostingStartup.cs" t="Include" />
+          <e p="Pages" t="Include">
+            <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+            <e p="_ViewImports.cshtml" t="Include" />
+            <e p="_ViewStart.cshtml" t="Include" />
+            <e p="Account" t="Include">
+              <e p="_ViewImports.cshtml" t="Include" />
+              <e p="ExternalLogin.cshtml" t="Include" />
+              <e p="ExternalLogin.cshtml.cs" t="Include" />
+              <e p="Login.cshtml" t="Include" />
+              <e p="Login.cshtml.cs" t="Include" />
+              <e p="Manage" t="Include">
+                <e p="_ManageNav.cshtml" t="Include" />
+                <e p="_ViewImports.cshtml" t="Include" />
+                <e p="ExternalLogins.cshtml" t="Include" />
+                <e p="ExternalLogins.cshtml.cs" t="Include" />
+                <e p="ManageNavPages.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Controllers" t="Include">
+        <e p="ApplicationUserController.cs" t="Include" />
+        <e p="CalendarApiController.cs" t="Include" />
+        <e p="CalendarController.cs" t="Include" />
+        <e p="FeideApiController.cs" t="Include" />
+        <e p="HomeController.cs" t="Include" />
+        <e p="SettingsApiController.cs" t="Include" />
+        <e p="TaskAutoGeneratorController.cs" t="Include" />
+        <e p="TimeEditApiController.cs" t="Include" />
+      </e>
+      <e p="Data" t="Include">
+        <e p="LazyApeDbContext.cs" t="Include" />
+        <e p="LazyApeDbInitializer.cs" t="Include" />
+      </e>
+      <e p="docker-compose.yml" t="Include" />
+      <e p="Dockerfile" t="Include" />
+      <e p="lazyape.csproj" t="IncludeRecursive" />
+      <e p="Models" t="Include">
+        <e p="ApplicationUser.cs" t="Include" />
+        <e p="CalendarViewModel.cs" t="Include" />
+        <e p="CourseModel.cs" t="Include" />
+        <e p="ErrorViewModel.cs" t="Include" />
+        <e p="SettingModel.cs" t="Include" />
+        <e p="StaticDataModel.cs" t="Include" />
+        <e p="TaskModel.cs" t="Include" />
+        <e p="TimeEditModel.cs" t="Include" />
+        <e p="TokenModel.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.2" t="Include">
+            <e p="lazyape.AssemblyInfo.cs" t="Include" />
+            <e p="lazyape.RazorAssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="ScaffoldingReadme.txt" t="Include" />
+      <e p="Startup.cs" t="Include" />
+      <e p="Views" t="Include">
+        <e p="_ViewImports.cshtml" t="Include" />
+        <e p="_ViewStart.cshtml" t="Include" />
+        <e p="Calendar" t="Include">
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="Home" t="Include">
+          <e p="About.cshtml" t="Include" />
+          <e p="Index.cshtml" t="Include" />
+          <e p="Privacy.cshtml" t="Include" />
+        </e>
+        <e p="Shared" t="Include">
+          <e p="_CalendarPartial.cshtml" t="Include" />
+          <e p="_CookieConsentPartial.cshtml" t="Include" />
+          <e p="_Layout.cshtml" t="Include" />
+          <e p="_LoginPartial.cshtml" t="Include" />
+          <e p="_ModalPartial.cshtml" t="Include" />
+          <e p="_NavBarItemPartial.cshtml" t="Include" />
+          <e p="_SettingsPartial.cshtml" t="Include" />
+          <e p="_ValidationScriptsPartial.cshtml" t="Include" />
+          <e p="Error.cshtml" t="Include" />
+        </e>
+      </e>
+      <e p="wwwroot" t="Include">
+        <e p="css" t="Include">
+          <e p="aboutCustom.css" t="Include" />
+          <e p="calsetup.css" t="Include" />
+          <e p="custom.css" t="Include" />
+          <e p="setting.css" t="Include" />
+          <e p="site.css" t="Include" />
+        </e>
+        <e p="favicon.ico" t="Include" />
+        <e p="Images" t="Include">
+          <e p="Background.png" t="Include" />
+          <e p="Background2.png" t="Include" />
+          <e p="Character.png" t="Include" />
+          <e p="feide.png" t="Include" />
+          <e p="Gisle.jpg" t="Include" />
+          <e p="IndexBack.png" t="Include" />
+          <e p="IndexBack1.png" t="Include" />
+          <e p="LazyApeNoText.png" t="Include" />
+          <e p="Mads.jpg" t="Include" />
+          <e p="Matthew.jpg" t="Include" />
+          <e p="pic.jpg" t="Include" />
+        </e>
+        <e p="js" t="Include">
+          <e p="calendarVue.js" t="Include" />
+          <e p="Custom.js" t="Include" />
+          <e p="Setting.js" t="Include" />
+          <e p="SettingsBtn.js" t="Include" />
+          <e p="site.js" t="Include" />
+        </e>
+        <e p="lib" t="Include">
+          <e p="bootstrap" t="Include">
+            <e p="dist" t="Include">
+              <e p="css" t="Include">
+                <e p="bootstrap-grid.css" t="Include" />
+                <e p="bootstrap-grid.css.map" t="Include" />
+                <e p="bootstrap-grid.min.css.map" t="Include" />
+                <e p="bootstrap-reboot.css" t="Include" />
+                <e p="bootstrap-reboot.css.map" t="Include" />
+                <e p="bootstrap-reboot.min.css.map" t="Include" />
+                <e p="bootstrap.css" t="Include" />
+                <e p="bootstrap.css.map" t="Include" />
+                <e p="bootstrap.min.css.map" t="Include" />
+              </e>
+              <e p="js" t="Include">
+                <e p="bootstrap.bundle.js" t="Include" />
+                <e p="bootstrap.bundle.js.map" t="Include" />
+                <e p="bootstrap.bundle.min.js.map" t="Include" />
+                <e p="bootstrap.js" t="Include" />
+                <e p="bootstrap.js.map" t="Include" />
+                <e p="bootstrap.min.js.map" t="Include" />
+              </e>
+            </e>
+            <e p="LICENSE" t="Include" />
+          </e>
+          <e p="jquery" t="Include">
+            <e p="dist" t="Include">
+              <e p="jquery.js" t="Include" />
+              <e p="jquery.min.map" t="Include" />
+            </e>
+            <e p="LICENSE.txt" t="Include" />
+          </e>
+          <e p="jquery-validation" t="Include">
+            <e p="dist" t="Include">
+              <e p="additional-methods.js" t="Include" />
+              <e p="jquery.validate.js" t="Include" />
+            </e>
+            <e p="LICENSE.md" t="Include" />
+          </e>
+          <e p="jquery-validation-unobtrusive" t="Include">
+            <e p="jquery.validate.unobtrusive.js" t="Include" />
+            <e p="LICENSE.txt" t="Include" />
+          </e>
+        </e>
+      </e>
+    </e>
+    <e p="C:\Users\matth\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\matth\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\matth\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\matth\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_.19.02" t="ExcludeRecursive" />
+  </component>
+</project>

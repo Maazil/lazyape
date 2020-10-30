@@ -1,0 +1,9 @@
+C:\Coding\lazyl\lazyape\obj\Debug\netcoreapp2.2\lazyape.csprojAssemblyReference.cache
+C:\Coding\lazyl\lazyape\obj\Debug\netcoreapp2.2\lazyape.RazorAssemblyInfo.cache
+C:\Coding\lazyl\lazyape\obj\Debug\netcoreapp2.2\lazyape.RazorAssemblyInfo.cs
+C:\Coding\lazyl\lazyape\obj\Debug\netcoreapp2.2\lazyape.AssemblyInfoInputs.cache
+C:\Coding\lazyl\lazyape\obj\Debug\netcoreapp2.2\lazyape.AssemblyInfo.cs
+C:\Coding\lazyl\lazyape\obj\Debug\netcoreapp2.2\lazyape.TagHelpers.input.cache
+C:\Coding\lazyl\lazyape\obj\Debug\netcoreapp2.2\lazyape.TagHelpers.output.cache
+C:\Coding\lazyl\lazyape\obj\Debug\netcoreapp2.2\lazyape.dll
+C:\Coding\lazyl\lazyape\obj\Debug\netcoreapp2.2\lazyape.pdb
