@@ -1,2 +1,2 @@
 # lazyape
-Univeristy group project in .NET mvc
+University group project in .NET mvc
